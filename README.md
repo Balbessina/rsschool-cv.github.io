@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://Balbessina.github.io/rsschool-cv/cv
+https://balbessina.github.io/rsschool-cv.github.io/cv
